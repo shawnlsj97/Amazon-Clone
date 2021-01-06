@@ -16,6 +16,8 @@ When users first visit Amazon Clone, they can sign up / in via the "Sign In" but
 
 <img src="./media/auth/1.PNG" width="350">
 
+Users will be redirected to the sign up / in page.
+
 <img src="./media/auth/2.png" width="350">
 
 After signing up / in, the header will be updated to reflect that the user is signed in.
@@ -24,24 +26,29 @@ After signing up / in, the header will be updated to reflect that the user is si
 
 User authentication is handled using Firebase.
 
-<img src="./media/auth/4.png" width="350">
+<img src="./media/auth/4.png" width="500">
 
 ### 2. Adding Items to Shopping Basket
 On the home page, users can add products to their shopping basket by clicking the "Add to Basket" button under each product. The number of items in the shopping basket is indicated in the header (highlighted using the red box).
-![Image](./media/shopping/1.PNG)
+
+<img src="./media/shopping/1.PNG" width="350">
+
 Users may view their shopping basket by clicking on the shopping basket icon. The total price of items in the shopping basket is displayed on the right.
-![Image](./media/shopping/2.PNG)
+
+<img src="./media/shopping/2.PNG" width="350">
+
 From this page, users can remove items from their shopping basket by clicking the "Remove from Basket" button. The subtotal is automatically updated whenever an item is removed.
-![Image](./media/shopping/3.PNG)
+
+<img src="./media/shopping/3.PNG" width="350">
 
 ### 3. Checking Out Items
 Users can proceed to check out their shopping basket by clicking the "Proceed to Checkout" button.
 
-![Image](./media/shopping/1.PNG)
+<img src="./media/checkout/1.PNG" width="350">
 
 Users will then be redirected to the Checkout page.
 
-![Image](./media/shopping/2.PNG)
+![Image](./media/checkout/2.PNG)
 
 ### 4. Making Payment via Stripe
 Users can make their payment by entering their credit card details into the payment field and clicking "Buy Now".
