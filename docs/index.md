@@ -26,7 +26,7 @@ After signing up / in, the header will be updated to reflect that the user is si
 
 User authentication is handled using Firebase.
 
-<img src="./media/auth/4.png" width="500">
+<img src="./media/auth/4.png">
 
 ### 2. Adding Items to Shopping Basket
 On the home page, users can add products to their shopping basket by clicking the "Add to Basket" button under each product. The number of items in the shopping basket is indicated in the header (highlighted using the red box).
@@ -44,11 +44,11 @@ From this page, users can remove items from their shopping basket by clicking th
 ### 3. Checking Out Items
 Users can proceed to check out their shopping basket by clicking the "Proceed to Checkout" button.
 
-<img src="./media/checkout/1.PNG" width="350">
+<img src="./media/checkout/1.png" width="350">
 
 Users will then be redirected to the Checkout page.
 
-![Image](./media/checkout/2.PNG)
+<img src="./media/checkout/2.png" width="350">
 
 ### 4. Making Payment via Stripe
 Users can make their payment by entering their credit card details into the payment field and clicking "Buy Now".
@@ -62,7 +62,7 @@ Payment is handled via Stripe on the back-end, and transactions are reflected on
 ### 5. Viewing Order History
 Users can view their previous orders by clicking on the "Orders" button in the header.
 
-![Image](./media/history/1.png)
+<img src="./media/history/1.png" width="350">
 
 On the back-end, orders are stored as collections under each user in Cloud Firestore.
 
