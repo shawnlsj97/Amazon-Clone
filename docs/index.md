@@ -51,13 +51,13 @@ Users can make their payment by entering their credit card details into the paym
 
 Payment is handled via Stripe on the back-end, and transactions are reflected on the payment dashboard of the administrator account.
 
-![Image](./media/payment/2.PNG)
+![Image](./media/payment/2.png)
 
 ### 5. Viewing Order History
 Users can view their previous orders by clicking on the "Orders" button in the header.
 
-![Image](./media/history/1.PNG)
+![Image](./media/history/1.png)
 
 On the back-end, orders are stored as collections under each user in Cloud Firestore.
 
-![Image](./media/history/2.PNG)
+![Image](./media/history/2.png)
