@@ -4,7 +4,7 @@
 
 The purpose of this project is to explore full-stack web development, which we are not exposed to during the course of our studies.
 
-![Image](./media/home.png | width=350)
+<img src="./media/home.png" width="350">
 
 You may access the web app [here](https://clone-124e6.web.app/).
 
