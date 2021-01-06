@@ -13,13 +13,19 @@ Source code can be found [here](https://github.com/shawnlsj97/Amazon-Clone).
 ## Features Added
 ### 1. User Authentication
 When users first visit Amazon Clone, they can sign up / in via the "Sign In" button on the header. After signing up / in, the header will be updated to reflect that the user is signed in.
-![Image](./media/auth/1.png)
+![Image](./media/auth/1.PNG)
 ![Image](./media/auth/2.png)
-![Image](./media/auth/3.png)
+![Image](./media/auth/3.PNG)
 ![Image](./media/auth/4.png)
 User authentication is handled using Firebase.
 
 ### 2. Adding Items to Shopping Basket
+On the home page, users can add products to their shopping basket by clicking the "Add to Basket" button under each product. The number of items in the shopping basket is indicated in the header (highlighted using the red box).
+![Image](./media/shopping/1.png)
+Users may view their shopping basket by clicking on the shopping basket icon. The total price of items in the shopping basket is displayed on the right.
+![Image](./media/shopping/2.png)
+From this page, users can remove items from their shopping basket by clicking the "Remove from Basket" button. The subtotal is automatically updated whenever an item is removed.
+![Image](./media/shopping/3.png)
 
 ### 3. Checking Out Items
 
