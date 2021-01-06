@@ -4,7 +4,7 @@
 
 The purpose of this project is to explore full-stack web development, which we are not exposed to during the course of our studies.
 
-![Image](./media/home.png | width = 350)
+![Image](./media/home.png | width=350)
 
 You may access the web app [here](https://clone-124e6.web.app/).
 
@@ -14,7 +14,7 @@ Source code can be found [here](https://github.com/shawnlsj97/Amazon-Clone).
 ### 1. User Authentication
 When users first visit Amazon Clone, they can sign up / in via the "Sign In" button on the header.
 
-![Image](./media/auth/1.PNG | width=350)
+![](./media/auth/1.PNG | width=350)
 
 ![Image](./media/auth/2.png)
 
