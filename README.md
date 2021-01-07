@@ -9,6 +9,8 @@
 
 [Amazon Clone](https://clone-124e6.web.app/) is a web application developed using React, with a Google Firebase back-end. This project was developed throughout the winter break in my third year of studies as a computer science undergraduate.
 
+The features of Amazon Clone can be viewed [here](https://shawnlsj97.github.io/Amazon-Clone/).
+
 The purpose of this project is to explore full-stack web development, which we are not exposed to during the course of our studies.
 
 <img src="./docs/media/home.png" width="350">
