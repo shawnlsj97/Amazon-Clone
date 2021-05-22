@@ -72,7 +72,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Authors
 
-Shawn Lee - [@shawnlsj97](https://github.com/shawnlsj97) on GitHub
+Vicki Bealman - [DrVicki](https://github.com/DrVicki) on GitHub
 
 ## License
 
