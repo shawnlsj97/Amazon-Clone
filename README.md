@@ -77,3 +77,4 @@ Vicki Bealman - [DrVicki](https://github.com/DrVicki) on GitHub
 ## License
 
 Amazon Clone is [MIT-licensed](https://github.com/shawnlsj97/Amazon-Clone/blob/master/LICENSE).
+# Amazon-Clone
